@@ -16,6 +16,8 @@
 
 6. **solver_milp_oda** - Sample pseudo-code for Distribution Aligner (ODA) and Allocation (MILP) solvers.
 
+7. **Results_Analysis** - Plots for bursty distribution and load time
+
 ## Usage
 
 For installing required dependecies, please use following:  
@@ -43,3 +45,5 @@ Use the `generate_approx_caching.ipynb` notebook to:
 
 
 This script uses the stable diffusion XL pipeline, which takes 15 seconds for Vanilla generation on an A10g GPU. We have modified the script in the `diffusers` library (`diffusers/pipelines/stable_diffusion_xl`) and provided a custom `diffusers` directory.
+
+- Note: The full end-to-end code implementation is currently under construction.
