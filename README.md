@@ -29,7 +29,7 @@ pip install diffusers==0.21.2
 pip install transformers==4.26.1
 `
 
-### 1. Try Out Approximate Caching
+### 1. Workflow of Approximate Caching
 
 Use the `generate_approx_caching.ipynb` notebook to:
 
