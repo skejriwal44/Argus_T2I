@@ -1,6 +1,6 @@
-# AccuScale
-### Paper \#38: Micro-managing Prompts for High-Throughput Text-to-Image Inference Serving
-#### Under review at ATC 2024
+# ARGUS
+### Paper \#236: Argus: Quality-Aware High Throughput Text-to-Image Inference Serving
+#### Under review at EuroSYS 2025
 
 ## Directory Structure
 
