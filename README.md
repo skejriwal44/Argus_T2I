@@ -1,6 +1,6 @@
 # ARGUS
 ### Paper \#236: Argus: Quality-Aware High Throughput Text-to-Image Inference Serving
-#### Under review at EuroSYS 2025
+#### Under review at ASPLOS 2025
 
 ## Directory Structure
 
